@@ -1,0 +1,6 @@
+D:\Github\dataset\img/out_dataset\train_db\00000.png	0
+D:\Github\dataset\img/out_dataset\train_db\00001.png	0
+D:\Github\dataset\img/out_dataset\train_db\00002.png	0
+D:\Github\dataset\img/out_dataset\train_db\00003.png	0
+D:\Github\dataset\img/out_dataset\train_db\00004.png	0
+D:\Github\dataset\img/out_dataset\train_db\00005.png	0
